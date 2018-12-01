@@ -1,2 +1,2 @@
 # Basic-Django-Apps
-Basic web apps, using python framework "django" and bootstrap
+Basic web apps, using python web framework "django" and bootstrap
